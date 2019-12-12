@@ -1,0 +1,37 @@
+{
+  "ref": "1@VLYl+/1L9TH/pnzQm4Q+cGWnBA4U9mBO+awAeQHOqyPMSYVPVHNHDKom",
+  "wid": "436505856050@c.us",
+  "connected": true,
+  "isResponse": "false",
+  "serverToken": "1@NJugZ9nUM8frypumfo3FopZetdjKsax5Zl4S0kvtFDrmZzoKKQVo9a01uvtnNyOGkRP1wGlTNiybIw==",
+  "browserToken": "1@XvZnsfkLu6THTe0yr7sAo3PMtDMZxU+FZg57aa7Txiwsn/0GIQCGPhgVHIfF7iqzJw5w5Wi9BIArYg49/Efl1kDOH/dqtjL2dibAJARzizsPp4US9UGHss22mHUYWkSwac0Ya+T4AZ983joHtH3vSQ==",
+  "clientToken": "zCXUVeep8vrgRzBU8+0ZsqbNqgRpakptCr9N8gD1xuMVwtyaqG5nbrMJq+tYNEHL+2Xxpl53zHS1X1SzuRY5gQ==",
+  "lc": "GB",
+  "lg": "en",
+  "locales": "en-GB,zh-Hans-AT,en-AT,de-AT",
+  "is24h": true,
+  "secret": "gNVW18iBcT72v+fKmJ6xbhvIEt7u13LXJ5cF4qxQMxWLhWrTHc7MukaRw0pmzYD7mKzYl1UKXZvg9YhfqZr5WR3uxH+t/YYadyCWyj2Xz+N6CI2Qgay6UzV1kV2xZACFf2iKIExhCdoRqXPCtpukvFI7vjiQALqYTP4/eWvMb4mL+8mXoOMsD9wcJ4xQhbOB",
+  "protoVersion": [
+    0,
+    17
+  ],
+  "binVersion": 10,
+  "battery": 13,
+  "plugged": false,
+  "platform": "iphone",
+  "features": {
+    "KEY_PARTICIPANT": true,
+    "FLAGS": "EAEYASACKAEwAjgBQAFIAVgBYAFoAXgBmAEBoAEBqAEBsAECuAEBwAEByAEB0AEC2AEB8AED+AED"
+  },
+  "phone": {
+    "wa_version": "2.19.120",
+    "mcc": "232",
+    "mnc": "007",
+    "os_version": "12.4.3",
+    "device_manufacturer": "Apple",
+    "device_model": "iPhone 5s",
+    "os_build_number": "undefined"
+  },
+  "pushname": "Jakob",
+  "tos": 0
+}
